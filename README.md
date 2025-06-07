@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lavi Jain
 
 🎯 Backend Developer | PHP & Magento Specialist | Full-Stack with Node.js & TypeScript  
-📍 Based in India | 10+ years building scalable, secure backend systems and APIs
+📍 Based in India | 9+ years building scalable, secure backend systems and APIs
 
 ---
 
