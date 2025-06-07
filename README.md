@@ -13,6 +13,12 @@ My expertise spans e-commerce (Magento & Adobe Commerce), mortgage underwriting,
 
 ---
 
+### 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate**
+
+---
+
 ## 🚀 What I’m Working On
 
 - 🧱 Building robust backend services with **Node.js**, **Express**, and **TypeScript**  
